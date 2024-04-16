@@ -1,0 +1,9 @@
+{
+    "theme_color": "white",
+    "background_color": "white",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Coding Bootcamp Testimonials Slider Solution",
+    "short_name": "Coding Bootcamp Testimonials Slider",
+    "description": "Coding Bootcamp Testimonials Slider solution for frontend mentor"
+}
