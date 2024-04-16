@@ -7,7 +7,7 @@
   <h2 align="center">Coding Bootcamp Testimonials Slider solution</h2>
   <p align="center">
   <!-- a modifier -->
-    <a href="https://www.frontendmentor.io/challenges/Coding-Bootcamp-Testimonials-Slider-koxpeBUmI"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://johanlib.github.io/Coding-Bootcamp-Testimonials-Slider/">View Demo</a>
@@ -39,11 +39,11 @@
 
 </div>
 
-This is a solution to the [Coding Bootcamp Testimonials Slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Coding-Bootcamp-Testimonials-Slider-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Coding Bootcamp Testimonials Slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Coding Bootcamp Testimonials Slider | Frontend Mentor](https://www.frontendmentor.io/solutions/Coding-Bootcamp-Testimonials-Slider-solution-5JPlrVzzgi)
+- Solution URL: [Coding Bootcamp Testimonials Slider | Frontend Mentor](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-sass-u3wm01FV3y)
 - Live Site URL: [https://johanlib.github.io/Coding-Bootcamp-Testimonials-Slider/](https://johanlib.github.io/Coding-Bootcamp-Testimonials-Slider/)
 
 <br>
